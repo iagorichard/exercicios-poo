@@ -6,6 +6,7 @@
   - Ter **encapsulamento de atributos** (uso de `private` e métodos `get` e `set`);
   - Possuir **dois construtores**: um **vazio** e um que **inicializa todos os atributos**;
   - Os métodos `set` devem realizar **validações** e **lançar `Exception`** (genérica mesmo) em caso de valores inválidos;
+  - Em todos os exercícios, criar uma Main para validar o uso das classes codificadas.
   
 ---
 

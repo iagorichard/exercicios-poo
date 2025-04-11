@@ -11,6 +11,8 @@
 
 ## Exercício 1
 
+Uma empresa deseja modelar seus diferentes tipos de trabalhadores para realizar uma análise interna sobre salários e funções desempenhadas. Cada tipo de trabalhador possui uma lógica distinta para o cálculo do salário final e para a descrição de suas atividades. O sistema precisa representar essas variações e aplicar regras de bonificação e adicionais conforme o tipo de contrato.
+
 Crie uma hierarquia de classes que represente **trabalhadores** de uma empresa.
 
 - A classe abstrata `Trabalhador` possui os atributos:
@@ -28,6 +30,8 @@ Crie uma hierarquia de classes que represente **trabalhadores** de uma empresa.
 ---
 
 ## Exercício 2
+
+Um aplicativo de pets está sendo desenvolvido para registrar informações e simular comportamentos de animais de estimação. O objetivo é permitir que tutores e cuidadores possam "interagir" virtualmente com seus animais através de respostas programadas com base em ações humanas, além de identificar o som característico de cada espécie.
 
 Crie uma hierarquia para representar **animais de estimação**.
 
@@ -47,6 +51,8 @@ Crie uma hierarquia para representar **animais de estimação**.
 
 ## Exercício 3
 
+Uma startup está criando uma solução para cálculo de rotas e previsão de tempo de viagem com base no meio de transporte utilizado. A aplicação precisa representar diferentes veículos, calcular o tempo de deslocamento e identificar o tipo de combustível consumido. O sistema precisa ser flexível para receber novos tipos de transporte futuramente.
+
 Crie uma hierarquia de classes que represente **meios de transporte**.
 
 - A classe abstrata `Transporte` deve ter:
@@ -64,6 +70,8 @@ Crie uma hierarquia de classes que represente **meios de transporte**.
 ---
 
 ## Exercício 4
+
+Uma escola de música quer informatizar o sistema de cadastro de músicos e seus instrumentos. Cada músico pode tocar diversos instrumentos, e cada instrumento possui comportamentos próprios de afinação e sonoridade. O objetivo é permitir que o sistema simule o ensaio de um músico com seus instrumentos e avalie os custos e características sonoras envolvidos.
 
 Crie uma hierarquia com **instrumentos musicais** e relacione-a com a classe `Musico` por **agregação**.
 
@@ -84,6 +92,8 @@ Crie uma hierarquia com **instrumentos musicais** e relacione-a com a classe `Mu
 
 ## Exercício 5
 
+Um sistema educacional de matemática visual está sendo desenvolvido para ensinar conceitos de geometria de forma prática. O sistema deve representar diferentes figuras geométricas e permitir que o usuário calcule áreas e perímetros por meio de uma calculadora integrada. Cada figura possui regras distintas de validação e comportamento.
+
 Modele uma hierarquia de **figuras geométricas** e relacione com `CalculadoraGeometrica` via **composição**.
 
 - Classe abstrata `FiguraGeometrica`:
@@ -103,6 +113,8 @@ Modele uma hierarquia de **figuras geométricas** e relacione com `CalculadoraGe
 
 ## Exercício 6
 
+Uma empresa está organizando suas tarefas internas e quer criar um sistema para auxiliar na distribuição e acompanhamento das atividades de seus funcionários. As tarefas possuem níveis de prioridade distintos, e os funcionários precisam visualizar um resumo das atividades sob sua responsabilidade com base em critérios como duração e complexidade.
+
 Crie uma hierarquia de **tarefas** e relacione com a classe `Funcionario` por **agregação**.
 
 - Classe abstrata `Tarefa`:
@@ -121,6 +133,8 @@ Crie uma hierarquia de **tarefas** e relacione com a classe `Funcionario` por **
 ---
 
 ## Exercício 7
+
+Uma loja de eletrônicos está desenvolvendo um sistema de controle de produtos para gestão de estoque e informações de garantia. Cada produto eletrônico possui um fabricante e regras próprias para a garantia estendida. O sistema precisa gerar descrições detalhadas dos produtos, considerando suas características e origem.
 
 Crie uma hierarquia de **produtos eletrônicos**, utilizando **composição** com a classe `Fabricante`.
 

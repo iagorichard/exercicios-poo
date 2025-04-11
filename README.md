@@ -11,7 +11,7 @@ Abaixo todos os links de listas de exercícios disponíveis para Programação O
 - [Lista 07 - Herança](https://github.com/iagorichard/exercicios-poo)
 - [Lista 08 - Agregação](https://github.com/iagorichard/exercicios-poo)
 - [Lista 09 - Composição](https://github.com/iagorichard/exercicios-poo)
-- [Lista 10 - Classes abstratas](https://github.com/iagorichard/exercicios-poo)
+- [Lista 10 - Classes abstratas](https://github.com/iagorichard/exercicios-poo/blob/main/lista-10-classes-abstratas.md)
 - [Lista 11 - Interfaces](https://github.com/iagorichard/exercicios-poo)
 - [Lista 12 - Métodos e classes estáticas](https://github.com/iagorichard/exercicios-poo)
 - [Lista 13 - SOLID](https://github.com/iagorichard/exercicios-poo)

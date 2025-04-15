@@ -12,7 +12,7 @@ Abaixo todos os links de listas de exercícios disponíveis para Programação O
 - [Lista 08 - Agregação](https://github.com/iagorichard/exercicios-poo)
 - [Lista 09 - Composição](https://github.com/iagorichard/exercicios-poo)
 - [Lista 10 - Classes abstratas](https://github.com/iagorichard/exercicios-poo/blob/main/lista-10-classes-abstratas.md)
-- [Lista 11 - Interfaces](https://github.com/iagorichard/exercicios-poo)
+- [Lista 11 - Interfaces](https://github.com/iagorichard/exercicios-poo/blob/main/lista-11-interfaces.md)
 - [Lista 12 - Métodos e classes estáticas](https://github.com/iagorichard/exercicios-poo)
 - [Lista 13 - SOLID](https://github.com/iagorichard/exercicios-poo)
 - [Lista 14 - Programação em camadas](https://github.com/iagorichard/exercicios-poo)
